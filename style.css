@@ -57,7 +57,7 @@ ul { padding: 0; margin: 0; list-style: none; }
 .sidebar.is-open { max-height: 410px; }
 .sidebar-info { display: flex; min-height: 78px; align-items: center; gap: 14px; }
 .avatar-box { width: 58px; height: 68px; flex: 0 0 auto; overflow: hidden; border-radius: 12px; background: var(--panel-soft); }
-.avatar-box img { width: 100%; height: 100%; object-fit: cover; object-position: center 30%; }
+.avatar-box img { width: 100%; height: 100%; object-fit: cover; object-position: center 55%; }
 .info-content { min-width: 0; }
 .name { margin: 0 0 7px; color: var(--ink); font-size: 17px; font-weight: 600; letter-spacing: -.3px; }
 .title { display: inline-flex; max-width: 100%; margin: 0; padding: 5px 9px; border-radius: 6px; background: var(--panel-soft); color: var(--body); font-size: 10px; line-height: 1.4; }
