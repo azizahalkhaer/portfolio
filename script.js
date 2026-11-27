@@ -49,7 +49,8 @@ const categoryNames = {
   ai: "AI & ML",
   dashboard: "Dashboards",
   web: "Web & Apps",
-  design: "Design"
+  design: "Design",
+  vba: "Excel & VBA"
 };
 
 filterButtons.forEach(button => {
